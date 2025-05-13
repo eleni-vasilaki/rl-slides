@@ -12,5 +12,6 @@ Welcome to the lecture slides for **COM3240 Reinforcement Learning**. Click any 
 6. [TD-Learning.](./slides/06_tdlearning.pdf)
 7. [Artificial Neural Networks as Function Approximations: Delta rule.](./slides/07_deltarule.pdf)
 8. [Artificial Neural Networks as Function Approximations: Backprobagation.](./slides/08_backpropagation.pdf)
+9. [Revision](./slides/09_revision.pdf)
 
 ---
